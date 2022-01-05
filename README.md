@@ -11,8 +11,8 @@
 ## Authors
 
 * [**Rinaldi Luca**](https://github.com/RinaldiLuca) (University of Padua)
-* **Benassi Federica** (University of Bologna)
-* **Ghidoni Rebecca** (University of Padua)
+* [**Benassi Federica**](https://github.com/fedebenassi) (University of Bologna)
+* [**Ghidoni Rebecca**](https://github.com/GhidoniR) (University of Padua)
 * [**Negri Luca**](https://github.com/Luca-Negri) (University of Padua)
 
 
